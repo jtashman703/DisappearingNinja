@@ -1,0 +1,18 @@
+/*CSS Reset*/
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  h1{
+    margin-bottom: 10px;
+  }
+  img{
+    display: inline-block;
+    width: 250px;
+  }
+  button{
+    display: block;
+    background-color: green;
+    color: white;
+    padding: 8px;
+  }
